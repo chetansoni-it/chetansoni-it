@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chetan%20Soni&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Lead%20DevOps%20%7C%20Cloud%20Platform%20Engineer&descSize=20&descAlignY=55
+  ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chetan%20Soni&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Lead%20DevOps%20%7C%20Cloud%20Platform%20Engineer&descSize=20&descAlignY=55)
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-chetansoni--it.github.io-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://chetansoni-it.github.io/chetansoni-it/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-sonichetan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonichetan/)
