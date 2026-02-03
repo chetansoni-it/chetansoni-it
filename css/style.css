@@ -1638,3 +1638,112 @@ button {
         transform: translateX(-5px);
     }
 }
+
+/* ============================================
+   Floating WhatsApp Chat Button
+   ============================================ */
+.whatsapp-float {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 60px;
+    height: 60px;
+    background: linear-gradient(135deg, #25D366 0%, #128C7E 100%);
+    color: white;
+    border-radius: var(--radius-full);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    box-shadow: 0 4px 20px rgba(37, 211, 102, 0.4);
+    z-index: 999;
+    transition: var(--transition-normal);
+    animation: whatsapp-pulse 2s infinite;
+}
+
+.whatsapp-float:hover {
+    transform: scale(1.1);
+    box-shadow: 0 6px 30px rgba(37, 211, 102, 0.6);
+}
+
+.whatsapp-float:hover .whatsapp-tooltip {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(-10px);
+}
+
+.whatsapp-tooltip {
+    position: absolute;
+    right: 70px;
+    background: var(--bg-card);
+    color: var(--text-primary);
+    padding: 8px 16px;
+    border-radius: var(--radius-md);
+    font-size: 0.875rem;
+    font-weight: 500;
+    white-space: nowrap;
+    opacity: 0;
+    visibility: hidden;
+    transition: var(--transition-normal);
+    border: 1px solid var(--border-color);
+    backdrop-filter: blur(10px);
+}
+
+.whatsapp-tooltip::after {
+    content: '';
+    position: absolute;
+    right: -6px;
+    top: 50%;
+    transform: translateY(-50%);
+    border: 6px solid transparent;
+    border-left-color: var(--bg-card);
+}
+
+@keyframes whatsapp-pulse {
+
+    0%,
+    100% {
+        box-shadow: 0 4px 20px rgba(37, 211, 102, 0.4);
+    }
+
+    50% {
+        box-shadow: 0 4px 30px rgba(37, 211, 102, 0.6), 0 0 0 10px rgba(37, 211, 102, 0.1);
+    }
+}
+
+/* WhatsApp Info Card Styles */
+.whatsapp-card .whatsapp-icon {
+    background: linear-gradient(135deg, #25D366 0%, #128C7E 100%);
+}
+
+.whatsapp-card:hover {
+    border-color: #25D366;
+}
+
+.whatsapp-card a:hover {
+    color: #25D366;
+}
+
+/* Social Link WhatsApp Style */
+.social-link.whatsapp {
+    background: linear-gradient(135deg, #25D366, #128C7E);
+}
+
+.social-link.whatsapp:hover {
+    box-shadow: 0 0 20px rgba(37, 211, 102, 0.5);
+}
+
+/* Responsive adjustments for WhatsApp button */
+@media (max-width: 768px) {
+    .whatsapp-float {
+        bottom: 20px;
+        right: 20px;
+        width: 55px;
+        height: 55px;
+        font-size: 1.75rem;
+    }
+
+    .whatsapp-tooltip {
+        display: none;
+    }
+}
