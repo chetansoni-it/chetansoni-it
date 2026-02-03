@@ -74,9 +74,9 @@ open_to: Collaboration, DevOps Consulting, Cloud Architecture Projects
 <br>
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 </details>
 
@@ -85,7 +85,7 @@ open_to: Collaboration, DevOps Consulting, Cloud Architecture Projects
 <br>
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure Pipelines](https://img.shields.io/badge/Azure_Pipelines-0078D4?style=for-the-badge&logo=azure-pipelines&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
@@ -122,8 +122,8 @@ open_to: Collaboration, DevOps Consulting, Cloud Architecture Projects
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chetansoni-it&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chetansoni-it&theme=tokyonight&hide_border=true&background=0D1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=chetansoni-it&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=chetansoni-it&theme=tokyonight" />
   
 </div>
 
@@ -135,7 +135,7 @@ open_to: Collaboration, DevOps Consulting, Cloud Architecture Projects
 
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetansoni-it&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1)
+  ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs?username=chetansoni-it&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
 
@@ -158,10 +158,10 @@ open_to: Collaboration, DevOps Consulting, Cloud Architecture Projects
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chetansoni-it&repo=particle41-devops-challenge-senior&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/chetansoni-it/particle41-devops-challenge-senior)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chetansoni-it&repo=node-postgres-redis-valkey&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/chetansoni-it/node-postgres-redis-valkey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chetansoni-it&repo=chaos-monkey&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/chetansoni-it/chaos-monkey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chetansoni-it&repo=authelia&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/chetansoni-it/authelia)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin?username=chetansoni-it&repo=particle41-devops-challenge-senior&theme=tokyonight&hide_border=true)](https://github.com/chetansoni-it/particle41-devops-challenge-senior)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin?username=chetansoni-it&repo=node-postgres-redis-valkey&theme=tokyonight&hide_border=true)](https://github.com/chetansoni-it/node-postgres-redis-valkey)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin?username=chetansoni-it&repo=chaos-monkey&theme=tokyonight&hide_border=true)](https://github.com/chetansoni-it/chaos-monkey)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin?username=chetansoni-it&repo=authelia&theme=tokyonight&hide_border=true)](https://github.com/chetansoni-it/authelia)
 
 </div>
 
